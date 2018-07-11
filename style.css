@@ -1,1 +1,5 @@
-<div style="white_on_red">White writing on a red background.</div>
+<style>
+  white_on_red
+    p1{background-color: red;color: white;
+}
+</style>
